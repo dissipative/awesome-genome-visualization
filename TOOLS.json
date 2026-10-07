@@ -7716,6 +7716,16 @@
       "width": 4800,
       "height": 3240,
       "github_stars": 9
+    },
+    {
+      "name": "Phylomena",
+      "language": ["Swift"],
+      "tags": ["MSA", "Mobile app"],
+      "img": "phylomena.png",
+      "url": "https://phylomena.app/",
+      "note": "Native multiple sequence alignment viewer and editor for iPad and iPhone",
+      "width": 2048,
+      "height": 1536
     }
   ]
 }
